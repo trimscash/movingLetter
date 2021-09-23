@@ -1,5 +1,5 @@
 # movingLetter
-<h1>https://trimscash.github.io/moving_moji/index.html</h1>
+<h1>https://trimscash.github.io/movingLetter/index.html</h1>
 you can move letter
 これは十字キーで動く文字のやつ
 
